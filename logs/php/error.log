@@ -1,0 +1,12 @@
+[17-Sep-2024 11:07:03 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\charl\Local Sites\plantyopc\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 958
+[17-Sep-2024 11:07:03 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\charl\Local Sites\plantyopc\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 960
+[17-Sep-2024 11:07:03 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\charl\Local Sites\plantyopc\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 967
+[17-Sep-2024 11:07:03 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\charl\Local Sites\plantyopc\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 968
+[17-Sep-2024 11:07:03 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\charl\Local Sites\plantyopc\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 971
+[17-Sep-2024 11:07:15 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\charl\Local Sites\plantyopc\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 958
+[17-Sep-2024 11:07:15 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\charl\Local Sites\plantyopc\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 960
+[17-Sep-2024 11:07:15 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\charl\Local Sites\plantyopc\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 967
+[17-Sep-2024 11:07:15 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\charl\Local Sites\plantyopc\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 968
+[17-Sep-2024 11:07:15 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\charl\Local Sites\plantyopc\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 971
+[18-Sep-2024 07:33:39 UTC] PHP Warning:  filemtime(): stat failed for C:\Users\charl\Local Sites\plantyopc\app\public/wp-content/themes/oceanwp-child/css/theme.css in C:\Users\charl\Local Sites\plantyopc\app\public\wp-content\themes\oceanwp-child\functions.php on line 22
+[18-Sep-2024 07:33:39 UTC] PHP Warning:  filemtime(): stat failed for C:\Users\charl\Local Sites\plantyopc\app\public/wp-content/themes/oceanwp-child/css/theme.css in C:\Users\charl\Local Sites\plantyopc\app\public\wp-content\themes\oceanwp-child\functions.php on line 22
